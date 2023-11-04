@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--leather tanning-->
+  <VAE_LeatherTanning.label>дублення шкіри</VAE_LeatherTanning.label>
+  <!--Learn the process of tanning to craft more thicker and durable armors.-->
+  <VAE_LeatherTanning.description>Міцніші шкіряні обладунки.</VAE_LeatherTanning.description>
+  <!--hazard protection-->
+  <VAE_HazardProtection.label>захист від небезпек</VAE_HazardProtection.label>
+  <!--Develop suits resistant to high toxicity and radiation.-->
+  <VAE_HazardProtection.description>Захисний одяг від токсинів та радіації.</VAE_HazardProtection.description>
+  <!--military camouflage-->
+  <VAE_MlitaryCamouflage.label>військовий камуфляж</VAE_MlitaryCamouflage.label>
+  <!--Craft special military apparel allowing users to resemble the background environment such as foliage.-->
+  <VAE_MlitaryCamouflage.description>Спеціальний військовий маскувальний одяг.</VAE_MlitaryCamouflage.description>
+  <!--siegebreaker armor-->
+  <VAE_SiegebreakerArmor.label>броня штурмовика</VAE_SiegebreakerArmor.label>
+  <!--Craft siegebreaker armor, heavy powered armor that significantly slows the user but provides advanced protection at range. Note that these also require advanced components.-->
+  <VAE_SiegebreakerArmor.description>Сучасна важка силова броня. Значно сповільнює носія, але надає хороший захист.</VAE_SiegebreakerArmor.description>
+  <!--trooper armor-->
+  <VAE_TrooperArmor.label>броня піхотинця</VAE_TrooperArmor.label>
+  <!--Craft trooper armor, a light semi-powered armor that is lightweight and cheap to produce. Note that these also require advanced components.-->
+  <VAE_TrooperArmor.description>Сучана легка напівсилова броня, досить дешева у виробництві.</VAE_TrooperArmor.description>
+</LanguageData>

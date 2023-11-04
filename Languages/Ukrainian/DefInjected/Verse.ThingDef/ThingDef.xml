@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--prestige trooper helmet-->
+  <VAE_Headgear_RoyalTrooperHelmet.label>елітний шолом піхотинця</VAE_Headgear_RoyalTrooperHelmet.label>
+  <!--A high-tech and lightweight armored helmet with a protective plasteel-weave plate.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity.-->
+  <VAE_Headgear_RoyalTrooperHelmet.description>A high-tech and lightweight armored helmet with a protective plasteel-weave plate.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity.</VAE_Headgear_RoyalTrooperHelmet.description>
+  <!--prestige trooper armor-->
+  <VAE_Apparel_RoyalTrooperArmor.label>елітна броня піхотинця</VAE_Apparel_RoyalTrooperArmor.label>
+  <!--A suit of light minimally-powered armor. Lightweight plasteel-weave plates block attacks, and neuro-memetic assistors in the lower body redistribute weight carried by its user. It is slimmer than other powered armor and can fit under clothes.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity.-->
+  <VAE_Apparel_RoyalTrooperArmor.description>A suit of light minimally-powered armor. Lightweight plasteel-weave plates block attacks, and neuro-memetic assistors in the lower body redistribute weight carried by its user. It is slimmer than other powered armor and can fit under clothes.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity.</VAE_Apparel_RoyalTrooperArmor.description>
+  <!--prestige siegebreaker helmet-->
+  <VAE_Headgear_RoyalSiegeHelmet.label>елітний шолом штурмовика</VAE_Headgear_RoyalSiegeHelmet.label>
+  <!--A heavily-armored high-tech helmet, with a solid plasteel-weave shell and omni-spectrum camera.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity.-->
+  <VAE_Headgear_RoyalSiegeHelmet.description>A heavily-armored high-tech helmet, with a solid plasteel-weave shell and omni-spectrum camera.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity.</VAE_Headgear_RoyalSiegeHelmet.description>
+  <!--prestige siegebreaker armor-->
+  <VAE_Apparel_RoyalSiegeArmor.label>елітна броня штурмовика</VAE_Apparel_RoyalSiegeArmor.label>
+  <!--A suit of heavy powered armor, built for increased protection while still maintaining mobility. Heavy layered plasteel-weave plates paired with a built-in energy shield emitter stop most attacks. Neuro-memetic assistors allow a human to wear this armor without immobilizing them entirely.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity.-->
+  <VAE_Apparel_RoyalSiegeArmor.description>A suit of heavy powered armor, built for increased protection while still maintaining mobility. Heavy layered plasteel-weave plates paired with a built-in energy shield emitter stop most attacks. Neuro-memetic assistors allow a human to wear this armor without immobilizing them entirely.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity.</VAE_Apparel_RoyalSiegeArmor.description>
+  <!--plate boots-->
+  <VAE_Footwear_PlateBoots.label>plate boots</VAE_Footwear_PlateBoots.label>
+  <!--A pair of simple plate boots. Due to their weight, they slow down the wearer.-->
+  <VAE_Footwear_PlateBoots.description>A pair of simple plate boots. Due to their weight, they slow down the wearer.</VAE_Footwear_PlateBoots.description>
+  <!--marine boots-->
+  <VAE_Footwear_MarineBoots.label>marine boots</VAE_Footwear_MarineBoots.label>
+  <!--A pair of marine boots with layered plasteel plates and enhanced servomotors.-->
+  <VAE_Footwear_MarineBoots.description>A pair of marine boots with layered plasteel plates and enhanced servomotors.</VAE_Footwear_MarineBoots.description>
+  <!--plate gloves-->
+  <VAE_Handwear_PlateGloves.label>plate gloves</VAE_Handwear_PlateGloves.label>
+  <!--A pair of simple metal gloves. Due to the thickness of the material, they reduce general work speed of the wearer.-->
+  <VAE_Handwear_PlateGloves.description>A pair of simple metal gloves. Due to the thickness of the material, they reduce general work speed of the wearer.</VAE_Handwear_PlateGloves.description>
+  <!--marine gloves-->
+  <VAE_Handwear_MarineGloves.label>marine gloves</VAE_Handwear_MarineGloves.label>
+  <!--A pair of marine gloves with enhanced grip assistance and set of embedded recoil stabilisers.-->
+  <VAE_Handwear_MarineGloves.description>A pair of marine gloves with enhanced grip assistance and set of embedded recoil stabilisers.</VAE_Handwear_MarineGloves.description>
+  <!--ghillie suit-->
+  <VAE_Apparel_GhillieSuit.label>маскхалат</VAE_Apparel_GhillieSuit.label>
+  <!--A camouflage clothing designed to resemble the environment. Gives user more time to aim precisely, but provides little to no defence.-->
+  <VAE_Apparel_GhillieSuit.description>A camouflage clothing designed to resemble the environment. Gives user more time to aim precisely, but provides little to no defence.</VAE_Apparel_GhillieSuit.description>
+  <!--HAZMAT suit-->
+  <VAE_Apparel_HAZMATSuit.label>захисний костюм</VAE_Apparel_HAZMATSuit.label>
+  <!--A full body, impermeable piece of protective equipment providing a full protection against psychic and toxic effect.\n\nIt limits the movement and manipulation of the wearer as well as provides no defense against any form of attack.-->
+  <VAE_Apparel_HAZMATSuit.description>A full body, impermeable piece of protective equipment providing a full protection against psychic and toxic effect.\n\nIt limits the movement and manipulation of the wearer as well as provides no defense against any form of attack.</VAE_Apparel_HAZMATSuit.description>
+  <!--gambeson-->
+  <VAE_Apparel_Gambeson.label>гамбезон</VAE_Apparel_Gambeson.label>
+  <!--A padded defensive jacket providing medium isolation from cold temperatures.-->
+  <VAE_Apparel_Gambeson.description>A padded defensive jacket providing medium isolation from cold temperatures.</VAE_Apparel_Gambeson.description>
+  <!--quilted vest-->
+  <VAE_Apparel_QuiltedVest.label>стьобаний жилет</VAE_Apparel_QuiltedVest.label>
+  <!--A quilted defensive vest to be worn under armour for extra protection.-->
+  <VAE_Apparel_QuiltedVest.description>A quilted defensive vest to be worn under armour for extra protection.</VAE_Apparel_QuiltedVest.description>
+  <!--light plate armor-->
+  <VAE_Apparel_LightPlateArmor.label>легкий пластинчастий обладунок</VAE_Apparel_LightPlateArmor.label>
+  <!--Overlapping solid plates of armor covering the chest and shoulders.-->
+  <VAE_Apparel_LightPlateArmor.description>Overlapping solid plates of armor covering the chest and shoulders.</VAE_Apparel_LightPlateArmor.description>
+  <!--plate shoulderpads-->
+  <VAE_Apparel_PlateShoulderpads.label>пластинчасті наплічники</VAE_Apparel_PlateShoulderpads.label>
+  <!--A pair of simple metal shoulder plates.-->
+  <VAE_Apparel_PlateShoulderpads.description>A pair of simple metal shoulder plates.</VAE_Apparel_PlateShoulderpads.description>
+  <!--chestplate-->
+  <VAE_Apparel_Chestplate.label>нагрудник</VAE_Apparel_Chestplate.label>
+  <!--A metal chest plate providing the wearer with a high protection against most damage but limiting the movement considerably.-->
+  <VAE_Apparel_Chestplate.description>A metal chest plate providing the wearer with a high protection against most damage but limiting the movement considerably.</VAE_Apparel_Chestplate.description>
+  <!--chainmail-->
+  <VAE_Apparel_Chainmail.label>кольчуга</VAE_Apparel_Chainmail.label>
+  <!--A coat of armor made out of small metal rings linked together forming a mesh, separated from the body with cloth padding.\n\nBeing quite heavy, this piece of armor slows down the wearer.-->
+  <VAE_Apparel_Chainmail.description>A coat of armor made out of small metal rings linked together forming a mesh, separated from the body with cloth padding.\n\nBeing quite heavy, this piece of armor slows down the wearer.</VAE_Apparel_Chainmail.description>
+  <!--plate helmet-->
+  <VAE_Apparel_PlateHelmet.label>пластинчастий шолом</VAE_Apparel_PlateHelmet.label>
+  <!--A plate helmet which gives moderate protection against sharp attacks.-->
+  <VAE_Apparel_PlateHelmet.description>A plate helmet which gives moderate protection against sharp attacks.</VAE_Apparel_PlateHelmet.description>
+  <!--wooden armor-->
+  <VAE_Apparel_WoodenArmor.label>дерев'яна броня</VAE_Apparel_WoodenArmor.label>
+  <!--A vest with wooden logs and planks covering the front and back. Quite effective against small calibre gunshots and sharp melee weapons, but completely useless against blunt hits and rifle shots.-->
+  <VAE_Apparel_WoodenArmor.description>A vest with wooden logs and planks covering the front and back. Quite effective against small calibre gunshots and sharp melee weapons, but completely useless against blunt hits and rifle shots.</VAE_Apparel_WoodenArmor.description>
+  <!--stone war mask-->
+  <VAE_Headgear_StoneWarMask.label>кам'яна маска війни</VAE_Headgear_StoneWarMask.label>
+  <!--An artistically terrifying war mask. Hides the wearer's face and makes them more confident. Being made out of stone, it is very durable but also incredibly heavy.-->
+  <VAE_Headgear_StoneWarMask.description>An artistically terrifying war mask. Hides the wearer's face and makes them more confident. Being made out of stone, it is very durable but also incredibly heavy.</VAE_Headgear_StoneWarMask.description>
+  <!--trooper helmet-->
+  <VAE_Headgear_TrooperHelmet.label>шолом піхотинця</VAE_Headgear_TrooperHelmet.label>
+  <!--A high-tech and lightweight armored helmet with a protective plasteel-weave plate.\n\nArmor like this is often used by imperial conscripts and late-midworld military forces.-->
+  <VAE_Headgear_TrooperHelmet.description>A high-tech and lightweight armored helmet with a protective plasteel-weave plate.\n\nArmor like this is often used by imperial conscripts and late-midworld military forces.</VAE_Headgear_TrooperHelmet.description>
+  <!--trooper armor-->
+  <VAE_Apparel_TrooperArmor.label>броня піхотинця</VAE_Apparel_TrooperArmor.label>
+  <!--A suit of light minimally-powered armor. Lightweight plasteel-weave plates block attacks, and neuro-memetic assistors in the lower body redistribute weight carried by its user. It is slimmer than other powered armor and can fit under clothes.\n\nArmor like this is often used by imperial conscripts and late-midworld military forces.-->
+  <VAE_Apparel_TrooperArmor.description>A suit of light minimally-powered armor. Lightweight plasteel-weave plates block attacks, and neuro-memetic assistors in the lower body redistribute weight carried by its user. It is slimmer than other powered armor and can fit under clothes.\n\nArmor like this is often used by imperial conscripts and late-midworld military forces.</VAE_Apparel_TrooperArmor.description>
+  <!--siegebreaker helmet-->
+  <VAE_Headgear_HeavyMarineHelmet.label>шолом штурмовика</VAE_Headgear_HeavyMarineHelmet.label>
+  <!--A heavily-armored high-tech helmet, with a solid plasteel-weave shell and omni-spectrum camera.\n\nArmor like this is often used by imperial stormtroopers and glitterworld peacekeepers.-->
+  <VAE_Headgear_HeavyMarineHelmet.description>A heavily-armored high-tech helmet, with a solid plasteel-weave shell and omni-spectrum camera.\n\nArmor like this is often used by imperial stormtroopers and glitterworld peacekeepers.</VAE_Headgear_HeavyMarineHelmet.description>
+  <!--siegebreaker armor-->
+  <VAE_Apparel_HeavyMarineArmor.label>броня штурмовика</VAE_Apparel_HeavyMarineArmor.label>
+  <!--A suit of heavy powered armor, built for increased protection while still maintaining mobility. Heavy layered plasteel-weave plates paired with a built-in energy shield emitter stop most attacks. Neuro-memetic assistors allow a human to wear this armor without immobilizing them entirely.\n\nArmor like this is often used by imperial stormtroopers and glitterworld peacekeepers.-->
+  <VAE_Apparel_HeavyMarineArmor.description>A suit of heavy powered armor, built for increased protection while still maintaining mobility. Heavy layered plasteel-weave plates paired with a built-in energy shield emitter stop most attacks. Neuro-memetic assistors allow a human to wear this armor without immobilizing them entirely.\n\nArmor like this is often used by imperial stormtroopers and glitterworld peacekeepers.</VAE_Apparel_HeavyMarineArmor.description>
+  <!--balaclava-->
+  <VAE_Headgear_Balaclava.label>балаклава</VAE_Headgear_Balaclava.label>
+  <!--A full face textile mask. Hides the identity of the wearer while providing warmth.-->
+  <VAE_Headgear_Balaclava.description>A full face textile mask. Hides the identity of the wearer while providing warmth.</VAE_Headgear_Balaclava.description>
+  <!--ghillie hood-->
+  <VAE_Headgear_GhillieHood.label>каптур маскувального халата</VAE_Headgear_GhillieHood.label>
+  <!--A camouflage hood designed to resemble the environment. Gives user more time to aim precisely, but provides little to no defence.-->
+  <VAE_Headgear_GhillieHood.description>A camouflage hood designed to resemble the environment. Gives user more time to aim precisely, but provides little to no defence.</VAE_Headgear_GhillieHood.description>
+  <!--HAZMAT hood-->
+  <VAE_Headgear_HAZMATMask.label>захисна маска</VAE_Headgear_HAZMATMask.label>
+  <!--A full head gas mask, which alongside the HAZMAT suit provides a full protection from toxic and psychic effects.-->
+  <VAE_Headgear_HAZMATMask.description>A full head gas mask, which alongside the HAZMAT suit provides a full protection from toxic and psychic effects.</VAE_Headgear_HAZMATMask.description>
+</LanguageData>
